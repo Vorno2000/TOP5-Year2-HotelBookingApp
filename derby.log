@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 14 19:51:50 NZST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-b1d0-2f81-00000e707770 
+on database directory C:\Users\Vorno\Desktop\Programming Assignment GUI\Hotel_Booking_System with class loader sun.misc.Launcher$AppClassLoader@1540e19d 
+Loaded from file:/C:/Users/Vorno/Desktop/Programming%20Assignment%20GUI/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=C:\Users\Vorno\Desktop\Programming Assignment GUI
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
