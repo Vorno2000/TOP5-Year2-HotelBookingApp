@@ -1,2 +1,6 @@
-# Year2-HotelBookingApp
-Grade: 95/100 | Hotel Booking App | This is a hotel check in/out application which utilizes a local database. Checking in allows the user to choose an available tiered room, floor &amp; extras. A total is calculated dependent on room tier, guests, extras &amp; floor chosen. All this info is stored on a local database and can be later loaded to check out
+# Overview
+This is a build from Netbeans 8.2 using apache derby | Download and open project as is in Netbeans, then run ProgrammingAssignment.java
+
+All coding files can be found in /src
+
+Optionally see screenshots
